@@ -1,0 +1,15 @@
+current directory: /Users/hirayamaaraki/Documents/Ruby/messageBoard/message_board/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/hirayamaaraki/.rbenv/versions/2.4.4/bin/ruby -r ./siteconf20191229-13574-bpqssc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hirayamaaraki/Documents/Ruby/messageBoard/message_board/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/hirayamaaraki/Documents/Ruby/messageBoard/message_board/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/hirayamaaraki/Documents/Ruby/messageBoard/message_board/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20191229-13574-c66f0/bootsnap
